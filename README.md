@@ -1,7 +1,7 @@
 # Hi, I'm Thabo Fletcher! 👋
 
 <a href="https://github.com/thabofletcher">
-  <img align="center" width="80%" src="https://github-readme-stats.vercel.app/api?username=thabofletcher&show_icons=true&theme=radical&hide=issues,commits,wakatime" alt="Thabo Fletcher's GitHub stats" />
+  <img align="center" width="80%" src="https://github-readme-stats.vercel.app/api?username=thabofletcher&show_icons=true&theme=radical&hide=issues,contribs,commits,wakatime" alt="Thabo Fletcher's GitHub stats" />
 </a>
 <br>
 <br>
