@@ -1,4 +1,4 @@
-# Hi, I'm Thabo Fletcher! 👋
+# Hi, I'm Thabo 👋
 
 <a href="https://github.com/thabofletcher">
   <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=thabofletcher&show_icons=true&theme=radical&hide=issues,contribs,commits,wakatime" alt="Thabo Fletcher's GitHub stats" />
